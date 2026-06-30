@@ -1,0 +1,8 @@
+[package]
+name = "rsleveldb"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "rsleveldb"
+path = "src/lib/mod.rs"
